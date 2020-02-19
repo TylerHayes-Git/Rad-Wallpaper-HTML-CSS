@@ -120,3 +120,7 @@ html{
     transform: rotateX(50deg);
 }
 ```
+
+## how it looks:
+
+![alt text][RAD.PNG]
