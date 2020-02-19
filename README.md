@@ -123,4 +123,4 @@ html{
 
 ## how it looks:
 
-![alt text][RAD.PNG]
+![alt text]
