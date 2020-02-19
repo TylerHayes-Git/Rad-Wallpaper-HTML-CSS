@@ -121,6 +121,6 @@ html{
 }
 ```
 
-## how it looks:
+## How It Looks:
 
 ![alt text](RAD.PNG)
